@@ -1,4 +1,4 @@
-DO | 
+DO | Do's
 -----|-----
 |Use Time filter first|use Col =~ |
 |Use Top 1 instead over board query running tons of data||
@@ -9,7 +9,7 @@ DO |
 |for join, use the table with less rows come first||
 |for join, project required columns from both sides/tables||
 
-DONT | 
+DONT | DONT's
 -----|-----
 
 |run query with without a limit| try to be as surgical as possible.||
