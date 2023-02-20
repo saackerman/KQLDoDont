@@ -12,6 +12,6 @@ DO | Do's
 DONT | DONT's
 -----|-----
 
-|run query with without a limit| try to be as surgical as possible.||
+|run query with without a limit| try to be as surgical as possible|
 |filter on calculated column if a table column produces same result||
 
